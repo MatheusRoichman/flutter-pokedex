@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "pokemon",
+      "request": "launch",
+      "type": "dart",
+      "args": [
+        "--dart-define=BASE_URL=http://172.28.144.1:3000/pokemon"
+      ]
+    }
+  ]
+}
